@@ -16,7 +16,7 @@ SERVICE_ACCOUNT_PATH = "./cre.json"
 ##
 SOURCE_CONFIG_PROD = relational_db.SourceConfiguration(
     drivername="mysql+pymysql",
-    host="104.198.202.17",
+    host="XXX.XXX.XXX.XX",
     port=3306,
     username="movie",
     password="bigdata",
